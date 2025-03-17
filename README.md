@@ -1,4 +1,4 @@
-# BI-EV-Adoption
+# BI for EV Adoption
 
 A structured process for designing and implementing a Business Intelligence (BI) tool, application or interface to ensure it fully performs its role in supporting problem-solving or decision-making is outlined in the step-by-step guide described below:
 
