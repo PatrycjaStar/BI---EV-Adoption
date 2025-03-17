@@ -68,3 +68,60 @@ Effective methods for managing dynamic data and improving performance are provid
 
 With Power BI's updates in real time features, General Motors Ltd. can effortlessly adjust dashboards and display data to get insights that are up to date. Data sources from International Energy Agency (IEA) and the World Bank provide extended data on carbon dioxide emissions, consumption of electricity, and indicators of economic growth that are particularly valuable for analysis on the adoption of electric vehicles. With the help of API connectors, these datasets can also be seamlessly included into Power BI, supporting dynamic and data-driven choices (Microsoft, 2023).
 
+
+
+# Business intelligence tools customisation 
+
+<b> A.	Dashboard Customisation </b>
+
+Several customised adjustments to make the Power BI dashboard more user-friendly and functional:
+•	Added data labels for CO2 Emissions by Country to show exact amounts and percentages,
+•	Transparency of Charging Points Availability metrics with an appropriate title,
+•	Stacked bar chart with clear legends for better comparisons,
+•	Consistent color palette across the dashboard to highlight different data points, ensuring color differentiation,
+•	Interactivity to make the dashboard more engaging and informative.
+
+
+Applying these changes, the Power BI dashboard will become more user-friendly, with an interactive, clear, and insightful interface that will allow users to analyse General Motors EV adoption rates and related data.
+
+Improved Dashboard
+
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/edcc1605-ff74-486a-979a-d84c164e7de2" />
+
+
+<b> B.	Data Analysis for EV Adoption </b>
+
+a) China has the highest EV sales along with the highest CO2 emissions worldwide, indicating a beneficial relationship between high emissions and high EV adoption. This trend reflects China's attempts to address pollution problems by using more electric vehicles. The USA is the next biggest emitter of CO2 and the second-largest market for EVs. Germany and Japan have relatively high CO2 emissions and intriguing EV sales, however at more modest rates than China and the United States. This trend indicates that EV adoption is rising in high-emission nations as an important part of their larger environmental policies.
+
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/c22c9c8f-f098-4449-8cfc-c7adc9c9aa9f" />
+
+
+b) China leads the world in EV sales and provides a large amount of charging stations available. China maintains a leading market share in EVs as a result to this solid infrastructure. In terms of EV sales and charging station availability, the USA comes in second, following a similar pattern where large rates of adoption are supported by robust infrastructure. Germany and Japan have a modest amount of charging points and electric vehicle sales. Despite not having as much infrastructure as the USA or China, these countries continue to play a significant role in fostering the adoption of EVs. According to future predictions, China will keep developing its infrastructure for charging EVs to meet the expected increases in the EV sales.
+
+
+![image](https://github.com/user-attachments/assets/6a2f2b60-92f8-46b8-ac07-df800c16f882)
+
+
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/e7b8994d-95af-4405-9901-08e796bee926" />
+
+
+
+c) Strong economic growth and rising cost of living in countries such as China and Qatar, which have high rates of labour force participation, are strongly associated with higher adoption rates of electric vehicles.
+
+
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/b7221a37-76ba-40e8-89f9-9438331f3589" />
+
+
+d) As a result of low unemployment rates, EV adoption is increasing in China, Qatar, and the USA. Increased unemployment slows down the adoption of EVs by reducing financial resources available in countries such as France and India.
+
+
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/74df2042-0acf-4094-bd11-c448b4786ce9" />
+
+
+e) Reduced tax rates in China and Qatar increase financial flexibility, which stimulates an increase in EV sales. Comparatively, despite the availability of supporting infrastructure, higher tax rates as in France and Germany might constrain consumer spending on EVs.
+
+
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/873d889d-d6e9-4905-8cb5-9f9ced1eea58" />
+
+
+
